@@ -8,4 +8,4 @@ This repository contains three projects:
   * auxiliary files required to run the integrator.
 * **SPARC_Solitons** is used to analyze the density profile of disk galaxies and use their density profile to deduce the ground-state configuration from the Schrodinger-Poisson equations. It contains:
   * a Python script for extracting a two-dimensional (cylindrically-symmetric) density profile for a galaxy in the SPARC sample of galaxies using photometric data, and
-  * a C-based integrator using a successive over-relaxation method to simultaneously solve the Schrodinger-Poisson equations in cylindrical symmetry.
+  * a C++-based integrator using a successive over-relaxation method to simultaneously solve the Schrodinger-Poisson equations in cylindrical symmetry.
